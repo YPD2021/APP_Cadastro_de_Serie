@@ -1,0 +1,16 @@
+C:\Users\YPD\source\repos\APP_Cadastro_de_Serie\obj\Debug\net5.0\APP_Cadastro_de_Serie.csproj.AssemblyReference.cache
+C:\Users\YPD\source\repos\APP_Cadastro_de_Serie\obj\Debug\net5.0\APP_Cadastro_de_Serie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YPD\source\repos\APP_Cadastro_de_Serie\obj\Debug\net5.0\APP_Cadastro_de_Serie.AssemblyInfoInputs.cache
+C:\Users\YPD\source\repos\APP_Cadastro_de_Serie\obj\Debug\net5.0\APP_Cadastro_de_Serie.AssemblyInfo.cs
+C:\Users\YPD\source\repos\APP_Cadastro_de_Serie\obj\Debug\net5.0\APP_Cadastro_de_Serie.csproj.CoreCompileInputs.cache
+C:\Users\YPD\source\repos\APP_Cadastro_de_Serie\bin\Debug\net5.0\APP_Cadastro_de_Serie.exe
+C:\Users\YPD\source\repos\APP_Cadastro_de_Serie\bin\Debug\net5.0\APP_Cadastro_de_Serie.deps.json
+C:\Users\YPD\source\repos\APP_Cadastro_de_Serie\bin\Debug\net5.0\APP_Cadastro_de_Serie.runtimeconfig.json
+C:\Users\YPD\source\repos\APP_Cadastro_de_Serie\bin\Debug\net5.0\APP_Cadastro_de_Serie.runtimeconfig.dev.json
+C:\Users\YPD\source\repos\APP_Cadastro_de_Serie\bin\Debug\net5.0\APP_Cadastro_de_Serie.dll
+C:\Users\YPD\source\repos\APP_Cadastro_de_Serie\bin\Debug\net5.0\ref\APP_Cadastro_de_Serie.dll
+C:\Users\YPD\source\repos\APP_Cadastro_de_Serie\bin\Debug\net5.0\APP_Cadastro_de_Serie.pdb
+C:\Users\YPD\source\repos\APP_Cadastro_de_Serie\obj\Debug\net5.0\APP_Cadastro_de_Serie.dll
+C:\Users\YPD\source\repos\APP_Cadastro_de_Serie\obj\Debug\net5.0\ref\APP_Cadastro_de_Serie.dll
+C:\Users\YPD\source\repos\APP_Cadastro_de_Serie\obj\Debug\net5.0\APP_Cadastro_de_Serie.pdb
+C:\Users\YPD\source\repos\APP_Cadastro_de_Serie\obj\Debug\net5.0\APP_Cadastro_de_Serie.genruntimeconfig.cache
